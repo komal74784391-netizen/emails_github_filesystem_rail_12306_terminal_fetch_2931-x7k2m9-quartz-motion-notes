@@ -1,2 +1,6 @@
-# emails_github_filesystem_rail_12306_terminal_fetch_2931-x7k2m9-quartz-motion-notes
-Quartz motion notes — release placeholder
+# Quartz Motion Notes
+
+Status: to be released — coming soon.
+
+The written notes and example scenes will be published once the internal
+review and rights check are complete.
